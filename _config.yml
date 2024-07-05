@@ -1,29 +1,29 @@
 # Site settings
-title: Klise Theme # site title
+title: Ltn0n4m3 Blog # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  A 2nd year AIML Department Student, sharing his learnings and explorations, 
+  check out his github account <a href="https://github.com/captainion2119" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+timezone: Asia/Kolkata # set your timezone
+image: assets/img/avatar.jpg # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/captainion2119/ltnoname-blog-netlify # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: Adithyakarthik M | Ltn0n4m3 # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+    A 2nd year AIML Department Student, Cybersecurity Enthusiast, Web dev, App dev, Photographer, Videographer, Graphic Designer, Video Editor and a Tech Enthusiast. 
+    meet Adithya at <a href="https://github.com/captainion2119" target="_blank" rel="noopener">@github</a>.
+  username: Ltn0n4m3 # general username
+  github: captainion2119 # github username
+  twitter: CaptainIon # twitter username
+  #facebook: facebook_username # facebook username
+  email: adithyakarthik2704@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://github.com/captainion2119" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
@@ -60,7 +60,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 7
 
 # Build settings
 # theme: klise
