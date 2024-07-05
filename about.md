@@ -1,18 +1,18 @@
 ---
-title: Colophon
+title: Introduction
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hey guys, I'm a 2nd year student in the department of Artificial Intelligence and Machine Learning, posting about my learning and findings on here for all of you to check it out!
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I'm a student at BNM Institute of Technology, Bangalore, India. Posting about all the things I learn in various technical aspects, join in and follow my journey! 🎒 Check out my various pages [Github](http://github.com/captainion2119) [Twitter](https://x.com/captainion) [Instagram](https://instagram.com/adithya.2119) [Instagram-Photography](https://instagram.com/voy_with_adi) Currently focusing on building my skills in Cybersecurity i'm currently working on HackTheBox <a href="https://app.hackthebox.com/profile/1997337" target="_blank" rel="noopener">HackTheBox Profile</a> Hope you learn more by joining me on my journey!
 
-If you have a question about him or else, just send a letter to him.
+Thank you for your time! See you on the posts!
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+You can [report](http://github.com/captainion2119/ltnoname-blog-netlify/issues/new) if there is a broken link(s) or something else!
 
-**may u needs ✨**
+**See you soon! Explorer! ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
