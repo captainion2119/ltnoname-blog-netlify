@@ -52,28 +52,28 @@ I am **Adithyakarthik M** | Hacker tag: **LtN0N4M3**
 Education: 2<sup>nd</sup> year, B.E in the Dept. Artificial Intelligence & Machine Learning (AIML)
 
 Currently actively participating in all the opportunites presented to me from the various College Clubs @ **BNMIT**, my current positions are:
-| **Club Core** | BNMIT Adventure Club
-| **Club Core** | H45HVAU7T - The Cybersecurity Club
-| **Club Core** | Pixel Perfect - The Photography Club
-| **Club Committee** | TEDxBNMIT
-| **Club Committee** | TechIT - The Tech Club
+**Club Core** | BNMIT Adventure Club
+**Club Core** | H45HVAU7T - The Cybersecurity Club
+**Club Core** | Pixel Perfect - The Photography Club
+**Club Committee** | TEDxBNMIT
+**Club Committee** | TechIT - The Tech Club
 
 Some of my notable achievements include:
-| **Second Place** | Prodathon - Anveshan (Topic: Creative Packaging Solutions for Small Scale Industry)
-| **Second Place** | Prodathon - Induction (Topic: AR/VR Travel Application for Cultural/Heritage Sites)
-| **Finalist** | Smart India Hackathon (SIH) - 2023 (Topic: Mental Health Application to Diagnose & Acquire Treatment)
+**Second Place** | Prodathon - Anveshan (Topic: Creative Packaging Solutions for Small Scale Industry)
+**Second Place** | Prodathon - Induction (Topic: AR/VR Travel Application for Cultural/Heritage Sites)
+**Finalist** | Smart India Hackathon (SIH) - 2023 (Topic: Mental Health Application to Diagnose & Acquire Treatment)
 
 Some of my work in terms of Organizing and Volunteering are:
-| **Organizer** | GameJam2022, internal event, Arena animation, jayanagar 
-| **Organizer** | international animation day, IAD2022, Arena animation, jayanagar
-| **Video Production & Website Team** | TATVA 2023, BNMIT
-| **Volunteer** | EVolve Hackathon, BNMIT
-| **Volunteer** | ITI Hackathon, IIE, Bangalore
-| **Organizer & Host** | Prodathon2023, BNMIT 
-| **Organizer** | Quiz show, BNMIT
-| **Volunteer** | Club Day 2024, BNMIT
-| **Organizer** | TEDxBNMIT 2024, BNMIT
-| **Organizer** | TATVA 2024, BNMIT
+**Organizer** | GameJam2022, internal event, Arena animation, jayanagar 
+**Organizer** | international animation day, IAD2022, Arena animation, jayanagar
+**Video Production & Website Team** | TATVA 2023, BNMIT
+**Volunteer** | EVolve Hackathon, BNMIT
+**Volunteer** | ITI Hackathon, IIE, Bangalore
+**Organizer & Host** | Prodathon2023, BNMIT 
+**Organizer** | Quiz show, BNMIT
+**Volunteer** | Club Day 2024, BNMIT
+**Organizer** | TEDxBNMIT 2024, BNMIT
+**Organizer** | TATVA 2024, BNMIT
 
 Alright, enough about me, lets talk just a little bit more about the blog and what one can expect from here...
 
